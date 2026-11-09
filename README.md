@@ -49,7 +49,7 @@ Features
 **Source Code Availability**
 
   The source code is available free of charge for personal, educational, and amateur radio use.
-  Interested operators may download the latest version from this GitHub repository or contact the author directly for additional information
+  Interested operators may download the latest version from this GitHub repository https://github.com/vu3bpq-ArunChutke/LogWave.git or contact the author directly for additional information
 
 **Author**
 Arun Chutke
